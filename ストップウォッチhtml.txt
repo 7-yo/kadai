@@ -1,6 +1,6 @@
 
 <head>
-<link rel="stylesheet" href="無題-3css.css">
+<link rel="stylesheet" href="ストップウォッチcss.css">
 <body>
   <div class="wrapper">
 
@@ -14,7 +14,7 @@
       <button id="reset" onclick="reset()" disabled>Reset</button>
     </div>
   </div>
-  <script src="無題-3java.js"></script>
+  <script src="ストップウォッチjava.js"></script>
 </body>        
 
 </head>
