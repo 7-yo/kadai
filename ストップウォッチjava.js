@@ -49,7 +49,7 @@ function reset(){
    
     elapsedTime = 0;
     holdTime = 0;
-    showTime.textContent = "00:00.00";
+    showTime.textContent = "00:00.000";
 
     startButton.disabled = false;
     stopButton.disabled = true;
